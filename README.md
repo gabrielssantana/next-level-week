@@ -9,4 +9,4 @@ Olá visitante, alguns requisitos para executar o projeto:
 - Executar o comando 'npm run dev';
 - Abrir o navegador em 'http://localhost:5500/';
 
-Nesta semana pude ter meu primeiro contato com programação desde conhecer o HTMl e CSS até a criação completa de uma infraestrutura para rodar a aplicação com node.js. 
+Nesta semana pude ter meu primeiro contato com programação desde conhecer o HTML e CSS até a criação completa de uma infraestrutura para rodar a aplicação com node.js. 
